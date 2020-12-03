@@ -1,10 +1,3 @@
-" =============================================================================
-" Filename: autoload/lightline/colorscheme/chosen_one.vim
-" Author: Zoltan Dalmadi
-" License: MIT License
-" Last Change: 2019/09/09 22:42:48.
-" =============================================================================
-
 " Common colors
 let s:blue   = [ '#61afef', 75 ]
 let s:green  = [ '#98c379', 76 ]
