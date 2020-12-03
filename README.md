@@ -1,4 +1,4 @@
-# lightline-chosenone
+# lightline chosen-one
 
 Colorscheme for lightline-vim, based on onedark.
 
